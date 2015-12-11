@@ -65,10 +65,10 @@ public class Main {
                 .flatMap(email -> email.getAttachments().stream())
                 .sorted((o1, o2) -> o1.getFileName().compareToIgnoreCase(o2.getFileName()))
                 .collect(Collectors.toList());
-        Map<String, Attachment> attchmentMap = emails.stream()
-                .flatMap(email -> email.getAttachments().stream())
-                .sorted((o1, o2) -> o1.getFileName().compareToIgnoreCase(o2.getFileName()))
-                .collect(Collectors.toMap(attachment -> attachment.getFileName(), attachment1 -> attachment1));
-        System.out.println(attchmentMap);
+//        Map<String, Attachment> attchmentMap = emails.stream()
+//                .flatMap(email -> email.getAttachments().stream())
+//                .sorted((o1, o2) -> o1.getFileName().compareToIgnoreCase(o2.getFileName()))
+//                .collect(Collectors.toMap(attachment -> attachment.getFileName(), attachment1 -> attachment1));
+//        System.out.println(attchmentMap);
     }
 }
