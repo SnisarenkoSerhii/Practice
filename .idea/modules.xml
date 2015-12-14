@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOStreams/IOStreams.iml" filepath="$PROJECT_DIR$/IOStreams/IOStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAXB Test/JAXB Test.iml" filepath="$PROJECT_DIR$/JAXB Test/JAXB Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company/company.iml" filepath="$PROJECT_DIR$/company/company.iml" />
       <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
     </modules>
   </component>
