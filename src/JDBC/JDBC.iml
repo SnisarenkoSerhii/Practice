@@ -16,5 +16,19 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/Source-IT-master/Source-IT-master/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/Source-IT-master/Source-IT-master/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/Source-IT-master/Source-IT-master/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/Source-IT-master/Source-IT-master/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
