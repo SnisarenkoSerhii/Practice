@@ -18,6 +18,22 @@ public class TestCase1 {
 
     @Test
     public void testMe() {
+        /*
+        Call service method that should return mapped objects;
+        E.g. in database we have 1 person with 2 cars and class structure described below.
+        Person {
+            private List<Car>
+            private String FIO;
+            ...
+        }
+        Car{
+            private String number;
+            private String tradeMark;
+            ...
+        }
+
+        In THEN part we should check all data in all fields
+         */
         System.out.println("Test Me!!!");
     }
 

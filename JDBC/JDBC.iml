@@ -30,5 +30,8 @@
         <jarDirectory url="file://$USER_HOME$/Downloads/Source-IT-master/Source-IT-master/lib" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="org.seleniumhq.selenium:jetty-rc-repacked:5.0" level="project" />
+    <orderEntry type="library" name="org.seleniumhq.selenium:selenium-java:2.44.0" level="project" />
+    <orderEntry type="library" name="org.seleniumhq.selenium:selenium-java:2.44.01" level="project" />
   </component>
 </module>
